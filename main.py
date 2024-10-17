@@ -18,7 +18,7 @@ tags_metadata = [
         "description": "Airport list. Link on the documentation on the right.",
         "externalDocs": {
             "description": "Sampling Test automation documentation",
-            "url": "https://github.com/njmlopez17/Python_VBCode_PyTest/blob/99f193d74e9729fb4b5fc8d38c81c3592de453c1/Test%20Automation%20End-to-End%20documentation.pdf",
+            "url": "https://github.com/njmlopez17/Python_PyCharm_Pydantic_FastAPI/blob/79023a234d3b31bdcb8317ccf38b23b4fad43dd1/Test%20Automation%20End-to-End%20documentation.pdf",
         },
     },
 ]
