@@ -18,6 +18,8 @@
 
 •	FastAPI
 
+•	Uvicorn
+
 •	Pydantic library
 
 •	GitHub repository
